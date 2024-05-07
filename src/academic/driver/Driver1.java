@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 /**
  @author 12S22036 Jonathan Fransilo Hutabarat
-         12S22030 Bryan Evans Simamora
+         12S22030 Bryan Evans Simamora 
  */
 import academic.model.Course;
 import academic.model.Enrollment;
