@@ -16,7 +16,7 @@ import academic.model.Student;
 import academic.model.Person;
 import academic.model.CourseOpening;
 
-class Driver1 {
+public class Driver1 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -265,6 +265,7 @@ class Driver1 {
                             }
                         }
                     }
+                
             }
         }
 

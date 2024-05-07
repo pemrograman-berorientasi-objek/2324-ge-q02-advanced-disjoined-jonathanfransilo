@@ -1,8 +1,5 @@
 package academic.model;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  @author 12S22036 Jonathan Fransilo Hutabarat
          12S22030 Bryan Evans Simamora
